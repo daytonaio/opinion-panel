@@ -10,7 +10,7 @@ Simple react project which helps to collect opinion and shows average opinon of 
 
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/gear-netics/opinion-panel.git    
+   daytona create https://github.com/daytonaio/sample-react-opinion-panel    
    ```  
 
 3. **Start the Application**:  
